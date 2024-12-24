@@ -48,7 +48,8 @@ The goal of this project is to create a model that can predict property prices u
 3. Install required dependencies:
 
    ```bash
-   pip install -r requirements.txt
+  pip install pandas matplotlib numpy
+
    ```
 
 ## Usage
