@@ -101,26 +101,5 @@ The model is built using the following techniques:
 
 You can modify the `config.py` file to customize model parameters and hyperparameters.
 
-## Contributing
 
-Contributions are welcome! To contribute:
-
-1. Fork the repository.
-2. Create a new branch for your feature/bug fix:
-   ```bash
-   git checkout -b feature-name
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Add feature/bug fix"
-   ```
-4. Push to your branch:
-   ```bash
-   git push origin feature-name
-   ```
-5. Create a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
