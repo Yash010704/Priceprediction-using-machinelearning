@@ -39,18 +39,6 @@ The goal of this project is to create a model that can predict property prices u
    git clone [https://github.com/your-username/price-prediction-model.git](https://github.com/Yash010704/Priceprediction-using-machinelearning.git)
    ```
 
-2. Navigate to the project directory:
-
-   ```bash
-   cd price-prediction-model
-   ```
-
-3. Install required dependencies:
-
-   ```bash
-  pip install pandas matplotlib numpy
-
-   ```
 
 ## Usage
 
